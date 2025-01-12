@@ -33,5 +33,6 @@ public class Plugin : BaseUnityPlugin
     private void ApplyPluginPatch()
     {
         _harmony.PatchAll(typeof(BrackenPatch));
+        _harmony.PatchAll(typeof(BrackenPatch2));
     }
 }
