@@ -5,10 +5,10 @@ schemaVersion = "0.0.1"
 repository = "https://thunderstore.io"
 
 [package]
-namespace = "YourThunderstoreTeam"
-name = "Template"
-description = "A template for Lethal Company plugins."
-websiteUrl = "https://github.com/Distractic/LethalCompanyTemplate"
+namespace = "LoganC"
+name = "FriendlyBracken"
+description = "makes the bracken (flowerman) friendly"
+websiteUrl = "https://github.com/An-Unnamed-Developer/FriendlyBracken"
 containsNsfwContent = false
 
 [package.dependencies]
